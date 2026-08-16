@@ -1,4 +1,4 @@
-# Playable Factory Case Study Presentation
+# Playable Factory Case Study
 **Product Manager Intern — Case Study**
 
 **Prepared by:** Ceren Yaşar | **Date:** August, 2026
